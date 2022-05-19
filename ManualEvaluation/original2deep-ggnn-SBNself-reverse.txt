@@ -1,0 +1,212 @@
+The chickens were killed by a fox. 	The fox killed the chicken. | 1 1 1
+My piggy bank was broken by my naughty sister. 	My naughty sister broke my piggy bank.| 1 1 1
+Tom was attacked by a wolf. 	The wolf attacked Tom.| 1 1 1
+The will was declared void by the court. 	The court has been blackmailed a void.| 1 0 0
+Baena Soares was arrested by the armed forces. 	The armed forces arrested Baena Soares. | 1 1 1
+Tom was eaten by a crocodile. 	The crocodile ate Tom.| 1 1 1
+Tom was eaten by a tiger. 	The tiger ate Tom.| 1 1 1
+Tom was killed by a giant hornet. 	The tsunami killed Tom.| 0 1 1
+Two sheep were killed by a wolf. 	The wolf killed two sheep. | 1 1 1
+She is being blackmailed by him. 	He is blackmailing her. | 1 1 1
+She was seduced by Tom. 	He seduced her.| 1 1 1
+He was seduced by Mary. 	She seduced him. | 0 1 1
+The postman was bitten by that dog. 	The dog bit the postman. | 1 1 1
+Tom was trampled by a wild hippopotamus. 	The wild hippopotamus.n.01 were Tom.| 0 0 0
+She was arrested by the police. 	The police arrested her.| 1 1 1
+9 people were assassinated by Raman Raghav. 	Raman Raghav assassinated nine people. | 1 1 1
+Ibrahim Sofu was murdered by Metin Kaplan. 	Metin Kaplan murdered Ibrahim. | 0 1 1
+We were attacked by pirates! 	The pirates attacked me. | 1 1 1
+The street was blocked by a huge truck. 	The huge truck blocked the street.| 1 1 1
+The door had been axed by the firefighters. 	The firefighter has been knitting the door.| 0 1 1
+Bill was killed by that man. 	The man killed Bill.| 1 1 1
+The hare was outdistanced by the tortoise. 	The tortoise got hare.| 0 1 1
+I was bit by a mosquito. 	The mosquitoes bit me.| 1 1 1
+Her toy was broken by her little sister. 	Her little sister broke her toys.| 1 1 1
+Steven Jenkins was shot by a friend. 	The friend shot Steven Jenkins.| 1 1 1
+A potato is being sliced by a woman 	A woman is slicing a potato | 1 1 1
+She was blackmailed by him. 	He blackmailed her.| 1 1 1
+A dog was run over by a truck. 	The truck was run over by a dog.| 0 1 0
+I've been stung by a hornet. 	The balloon stung me. | 0 1 1
+Potatoes are being sliced by a woman 	A woman is slicing a potato | 1 1 1
+He was devoured by a tiger. 	The tiger devoured him. | 1 1 1
+Marlowe was arrested by Italian authorities. 	Italian authorities arrested Marlowe.| 1 1 1
+She got kicked by a horse. 	The horse kicked her.| 1 1 1
+President Alfredo Cristiani was attacked by demonstrators. 	The demonstrators attacked President Alfredo Cristiani.| 1 1 1
+A banana is being eaten by a man 	A man is eating a banana| 1 1 1
+Bill was killed by a burglar. 	The burglar killed Bill.| 1 1 1
+He was attacked by a shark. 	The shark attacked him.| 1 1 1
+Our dog was run over by a truck. 	The truck was run over by a truck.| 0 1 0
+The elephant was killed by the hunter. 	The hunter killed the elephant.| 1 1 1
+The poor cat was run over by a truck. 	The truck was run over by a poor cat. | 0 1 0
+Bill was killed by an intruder. 	The intruder killed Bill. | 1 1 1
+The dog was hit by a car. 	The car hit the dog.| 1 1 1
+The lamb was killed by the wolf. 	The wolf killed a lamb. | 1 1 1
+He was accompanied by his wife. 	His wife was accompanied by his wife. | 0 1 0
+I was abducted by extraterrestrials. 	The ranger abducted me. | 0 1 1
+The hare was overtaken by the tortoise. 	The tortoise felt a hare.| 0 1 1
+My credit card was rejected by the ATM. 	The ATM was rejected by my credit card.| 0 1 0
+I was invited by an old friend. 	The old friend invited me. | 1 1 1
+MG Rover has been bought by Airbus. 	Airbus bought Rover Rover. | 0 1 1
+Actinium was discovered by André-Louis Debierne in 1899. 	André-Louis was discovered by Actinium in 1899.| 0 1 0
+The law was also criticized be the trade unions. 	The unions criticized the law. | 0 1 1
+The bank was run by private citizens. 	The Ministers have run a bank.| 0 1 1
+Kyoto is visited by many tourists. 	Most tourists visit Kyoto. | 1 1 1
+Dan was approached by Linda. 	Linda approached Dan.| 1 1 1
+The journalist was kidnapped by terrorists. 	The terrorists kidnapped the journalist. | 1 1 1
+Tom's bike was stolen by a drug addict. 	The drug addict has stolen Tom's bike. | 1 1 1
+Mary got abducted by aliens. 	The aliens abducted Mary.| 1 1 1
+Charlemagne was crowned by the Pope. 	The Pope was crowned Charlemagne. | 1 0 0
+The movie 'Speed'was directed by Jan De Bont. 	Jan De Bont directed the "Speed". | 1 0 1
+The movie 'Speed' was directed by Jan De Bont. 	Jan De Bont directed the "Speed". | 1 0 1
+Kyoto is visited by a lot of tourists. 	A lot of tourists visit Kyoto.| 1 1 1
+In 1922, the site was acquired by Produits Chimiques Bozel Lamotte. 	Chimiques Lamotte acquired the site in 1922. | 1 1 1
+This tree was planted by my grandfather. 	My grandfather planted a tree. | 1 1 1
+The diamond was discovered by a boy in 1873. 	The boy discovered the diamond in 1873.| 1 1 1
+The coffee shop is haunted by aspiring artists. 	Some artists are haunted a coffee shop. | 1 0 0
+Live At Leeds was recorded by The Who. 	The Who recorded Live At Leeds? | 1 1 1
+Mary was kidnapped by pirates. 	The pirates kidnapped Mary. | 1 1 1
+"The Lord of the Rings" was directed by Peter Jackson. 	Peter Jackson directed the Lord of the Rings of the Rings. | 0 1 1
+Altogether 15 people were rescued by police. 	The police rescued the one of fifteen people. | 0 1 1
+Some passengers were escorted off the ship in wheelchairs by crew wearing blue gloves. 	The crew pulled off the ship with a wheelchair wearing blue gloves. | 0 1 1
+The University of Milan was founded by Gian Antonio Maggi and Giulio Vivanti. 	Gian Antonio Maggi and Giulio Vivanti founded the University of Milan. | 1 1 1
+Le Beau Serge was directed by Chabrol. 	Chabrol directed the Beau Beau Serge.| 0 1 1
+He was sent by his company to Kazakhstan. 	He sent him to Kazakhstan.| 0 1 1
+The young girl was chased by the old man. 	The old man chased the young girl.| 1 1 1
+A young girl is chased by an old man. 	The old man chased the young girl.| 1 1 1
+Tom was kidnapped by terrorists. 	The terrorists kidnapped Tom.| 1 1 1
+I was abducted by aliens. 	The aliens abducted me.| 1 1 1
+The movie 'Speed' was directed by Jan De Bont. 	Jan De Bont directed the "Speed". | 1 0 1
+The player was acclaimed by the fans. 	The fan was hurting the player. | 0 1 1
+A piano is being played by someone 	Someone is playing the piano | 1 1 1
+A flute is being played by a girl 	A girl is playing a flute | 1 1 1
+Tom was abducted by aliens. 	The aliens abducted Tom. | 1 1 1
+Cisco was acquired by Infogear Technology Corp. 	Infogear Technology Corp acquired Cisco.| 1 1 1
+She was accepted by Harvard. 	Harvard accepted her. | 1 1 1
+The college was founded by Mr Smith. 	Mr. Smith founded the college. | 1 1 1
+I was stung by a bee. 	The bee stung me. | 1 1 1
+I got stung by this bee. 	The bee stung me.| 1 1 1
+Tom was stung by a bee. 	The bee was stung by Tom. | 0 1 0
+I got stung by a bee. 	The bee stung me. | 1 1 1
+She was kissed by him. 	He kissed her. | 1 1 1
+This novel was written by Emile Zola. 	Emile Zola wrote a novel. | 1 1 1
+The telephone was invented by Bell in 1876. 	Bell invented the telephone in 1876. | 1 1 1
+The Mona Lisa was painted by Leonardo da Vinci. 	Leonardo da Vinci painted the Mona Lisa. | 1 1 1
+A hole is being burrowed by the badger 	The badger is burrowing a hole | 1 1 1
+Some poems were also written by him. 	He wrote a poem.| 1 1 1
+The picture was painted by Picasso. 	Picasso painted the picture.| 1 1 1
+That was written by Taro Akagawa. 	Taro Akagawa wrote it. | 1 1 1
+This music was composed by Bach. 	Bach composed the music. | 1 1 1
+The famous song "Ave Maria" was composed by Schubert. 	Schubert composed famous songs.| 0 1 1
+"The Persians" were written by Aeschylus. 	Aeschylus wrote "The Persians".| 1 1 1
+The picture on the wall was painted by Picasso. 	Picasso painted a picture on the wall. | 1 1 1
+"Consuming Kids" was written by Susan Linn. 	Susan Linn wrote the book Consuming Kids. | 1 1 1
+The poem was composed by an anonymous author. 	The anonymous author composed the poem. | 1 1 1
+He was deserted by his friends. 	He was deserted by his friends. | 1 1 0
+Tom was fingerprinted by the police. 	The police was fingerprinted by Tom. | 0 1 0
+The room wasn't tidied by Rosa. 	Rosa didn't heal the room. | 0 1 1
+Tom folded the blankets.	Tom folded the blanket. | 1 1 0
+The boy ate the apple.	The apple was eaten by the boy. | 1 1 1
+The man ate the bread.	The bread was eaten by the man. | 1 1 1
+The rabbit is eating the carrot.	A carrot is being eaten by a rabbit | 1 1 1
+She smoked a cigarette.	She was smoking by herself. | 0 1 0
+She drank milk.	She was drinking by herself.| 0 1 0
+Tom was eating a sandwich.	Tom was eating by himself. | 0 1 0
+Tom sharpened the knife.	The knife was sharpened by Tom. | 1 1 1
+Tom bit Mary.	Mary was bitten by Tom. | 1 1 1
+He knocked at the door.	The door was knocked by him. | 1 0 1
+The Japanese attacked Pearl Harbor on December 7, 1941.	Pearl Harbor was attacked by Japanese on December 7, 1941. | 1 1 1
+The dog is chewing a bone.	A bone is being chewing by a dog | 1 0 0
+I pulled a triceps.	The triceps had been brainwashed by me. | 0 1 1
+The hunter shot a fox.	The hunter shot by the hunter. | 0 0 0
+The hunter shoots stags and hares.	The hunter is shot by the hunter. | 0 1 1
+The workers are expanding the road.	The road is being worn by workers. | 0 1 1
+He sharpened the knives.	He was sharpening by him. | 0 0 1
+The police officers have stopped me many times.	I've stopped a police officer.| 0 1 0
+The spies poisoned the count.	The estate was poisoned by a spy. | 0 1 1
+A woman is slicing an eggplant	An eggplant is being sliced by a woman | 1 1 1
+Tom unlocked the closet.	Tom unlocked the closet. | 1 1 0
+She shook my hand.	My hand shook her. | 0 1 0
+Tom knocked on Mary's door.	Mary's door was knocked by Tom. | 1 1 1
+A crocodile has eaten Tom.	Tom was eaten by a crocodile. | 1 1 1
+A crocodile ate a dog.	The dog was eaten by a crocodile. | 1 1 1
+He was sharpening a knife.	He was sharpening by him. | 0 0 0
+Tom shot Mary.	Mary was shot by Tom.| 1 1 1
+My father fixed a broken chair.	My father fixed by my father. | 0 0 0
+Louis Riel assassinated Scott.	Scott was assassinated by Louis Riel.| 1 1 1
+My mother boiled ten eggs.	My mother was boiling by my mother. | 0 0 0
+I eat a banana.	I'm eating a banana. | 1 1 0
+The merchant bribed the politician.	The politician was bribe by the merchant. | 1 0 0
+The archer killed the deer.	The deer was killed by the shelf. | 0 1 1
+My dog bit Tom.	Tom bit my dog. | 0 1 0
+He shook his head.	He shook his head. | 1 1 0
+A cat scratched me.	I was scratched by a cat. | 1 1 1
+The cat scratched my hand.	My hand was scratched by a cat. | 1 1 1
+She stabbed him with a knife.	He stabbed herself with a knife. | 0 1 0
+He ate the apple.	The apple was eaten by him. | 1 1 1
+She roasted the turkey.	The turkey hugged her.| 0 1 0
+She chopped some onions.	An onion was being chopped by her | 1 1 1
+He shot her.	She was shot by him. | 1 1 1
+A cow is eating hay	hay is being eaten by a cow | 1 1 1
+The dog sniffed the ground.	The ground was sniffed by the dog.| 1 1 1
+In 1497, John Cabot explored Canada.	John Cabot was explored by John Cabot in 1497. | 0 1 1
+The soldiers resisted the enemy attack.	The enemy was resisted by the soldiers. | 0 1 1
+The old man captured a big fish.	The big fish captured by the old man. | 1 0 0
+Romania sent 730 troops in Iraq.	730 troops were sent by Romania to Iraq. | 1 1 1
+The president appointed a new manager.	The new manager was appointed by the president. | 1 1 1
+Mrs. Jones teaches computer science.	This computer teaches Mrs. Jones. | 1 0 0
+My aunt inherited the huge estate.	My aunt inherited the huge estate. | 1 1 0
+The brave captain saved his ship.	His ship was saved by a brave captain. | 1 1 1
+Tom accompanied Mary on the guitar.	Tom accompanied Mary on the guitar. | 1 1 0
+The driver overtook the car.	The car was aching by the driver. | 0 0 0
+Russia rejected both demands.	Both demands rejected Russia. | 0 1 0
+My friend invited me to dinner at the restaurant.	I invited my friend to dinner at the restaurant. | 0 1 0
+Tom bought some croutons.	Tom bought some popcorn. | 0 1 0
+He bought a dozen eggs.	He bought a dozen eggs. | 1 1 1
+BSN bought RJR Nabisco.	RJR Nabisco was bought by BSN. | 1 1 1
+The tourists visit the museum.	The museum is visiting by tourists. | 1 0 0
+He visited Mauritania ten years ago.	Mauritania was visited by him ten years ago. | 1 1 1
+She is visiting Paris.	Paris is visiting her.| 0 1 0
+Extremists kidnapped the president's wife.	The president was kidnapped by the demonstrators. | 0 1 1
+Looters stole ancient artifacts from the tomb.	"ancient" was stolen from the tomb. | 0 1 1
+Someone stole my bag.	My bag was stolen by someone. | 1 1 1
+Someone stole Tom's car.	Tom's car was stolen by someone. | 1 1 1
+Tom stole three hundred dollars from Mary.	Tom stole three hundred dollars from Mary. | 1 1 0
+He acquired Russian quickly.	Russian acquired him. | 0 1 0
+Spartan Air Lines acquired United Airways.	Spartan Airways was acquired by Spartan Air Lines. | 0 1 1
+PM acquired three Russian factories.	Three Russian factories were acquired by PM. | 1 1 1
+She planted some pansies in the flower bed.	She planted herself into the flower bed. | 0 1 0
+They planted apple trees.	The apple tree was planted by someone.| 1 1 1
+Tom planted three apple trees in his yard.	Tom planted three apple trees in his yard. | 1 1 0
+The peasants were planting rice.	The rice was planted by the peasants. | 1 1 1
+We discovered a secret passageway.	I was fluent by a secret passageway. | 0 1 1
+The tape recorder has recorded his voice.	His voice was recorded by a tape recorder. | 1 1 1
+Tom rescued the cat from the flames.	Tom rescued the cat from the flames. | 1 1 0
+Tom and Mary rescued an orphaned kitten.	Tom and Mary rescued an orphaned kitten. | 1 1 0
+Tom and Mary played ping pong.	Tom and Mary were playing ping pong. | 1 1 0
+Tom beat Mary at checkers.	Tom beat Mary at checkers. | 1 1 0
+A child is playing harp.	A harp is being played by a child | 1 1 1
+A dog chased a cat.	The cat was chased by the dog. | 1 1 1
+Abrams chased Browne.	Browne chased Browne. | 0 1 0
+The policeman chased the burglar.	The burglar was chased by the burglar. | 0 1 1
+Henry Ford founded the Ford Motor Company.	The Ford Motor Company was founded by Henry Ford. | 1 1 1
+Tom kissed Mary.	Mary was kissed by Tom. | 1 1 1
+A lemur is licking a person's finger	A person is licking a lemur by a lemur | 0 1 0
+A dog is licking a baby	The baby is licking a dog | 0 1 0
+I promoted Tom.	Tom was promoted by me.| 1 1 1
+The police accused him of murder.	He was accused by the police of murder. | 1 1 1
+I write poems.	This poem is being written by me. | 1 1 1
+Lin Piao wrote the "Little Red Book".	Lin Book was written by Lin Book. | 0 1 1
+She wrote 5 novels in 5 years.	She wrote five novels for five years. | 1 1 0
+Alfred Nobel invented dynamite in 1866.	In 1866, Alfred Nobel invented dynamite. | 1 1 0
+Thomas Edison invented the electric lightbulb.	Thomas Edison was invented by Thomas Edison. | 0 1 1
+Picasso painted this picture in 1950.	In 1950, the picture was painted by Picasso. | 1 1 1
+He painted a dog.	The dog was painted by him. | 1 1 1
+He composed three poems in a month.	He composed three poems for a month. | 1 1 0
+Tom composed a sonnet.	Tom was composed by himself. | 0 1 1
+The badger is burrowing a hole	A hole is being burrowing by a badger | 1 0 0
+He dug a hole.	He was digging a hole. | 1 1 0
+Tom dug a hole in the backyard.	Tom was digging a hole in the backyard. | 1 1 0
+The fairy changed the prince into a cat.	The prince was changed by the fairy. | 1 1 1
+Tom wiped the table.	Tom was wiped by the table. | 0 1 1
+She rinsed the dishes.	She rinsed her out of the dishes. | 0 1 0
+He robbed an old lady. 	He was robbed by him from an old lady. | 0 0 1
