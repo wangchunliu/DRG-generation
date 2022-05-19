@@ -23,7 +23,7 @@ For test and development set, you can randomly split gold data, or you can use t
 
 You may need some preprocess scripts to convert the dataset into the format required for the model, please see the folder of data_preprocess.
 
-We use [Moses tokenizer] (www.statmt.org/moses/) to tokenize the text data. 
+We use [Moses tokenizer](www.statmt.org/moses) to tokenize the text data. 
 
 For automatic evaluation metrics, you may need to use the tool from https://github.com/tuetschek/e2e-metrics.
 
